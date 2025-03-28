@@ -1,4 +1,4 @@
-package com.collection.queueInterface;
+package queueInterface;
 
 import java.util.*;
 
