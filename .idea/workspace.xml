@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="af1512d2-a35d-4eed-b752-ff776f5d9c69" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/listInterface/FrequencyOfElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/listInterface/FrequencyOfElements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/listInterface/NthElementFromEnd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/listInterface/NthElementFromEnd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/listInterface/RemoveDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/listInterface/RemoveDuplicates.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/listInterface/ReverseArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/listInterface/ReverseArrayList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/listInterface/ReverseLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/listInterface/ReverseLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/listInterface/RotateList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/listInterface/RotateList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/queueInterface/BinaryNumbersUsingQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/queueInterface/BinaryNumbersUsingQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/queueInterface/CircularBuffer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/queueInterface/CircularBuffer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/queueInterface/HospitalTriageSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/queueInterface/HospitalTriageSystem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/queueInterface/ReverseQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/queueInterface/ReverseQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/queueInterface/StackUsingQueues.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/queueInterface/StackUsingQueues.java" afterDir="false" />
-    </list>
+    <list default="true" id="af1512d2-a35d-4eed-b752-ff776f5d9c69" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
